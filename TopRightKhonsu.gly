@@ -10,7 +10,15 @@
 ++JSesh_small_sign_centered false +s
 ++JSesh_page_direction LEFT_TO_RIGHT +s
 ++JSesh_max_quadrantHeight 18.0 +s
-++JSesh_page_orientation VERTICAL +s
-ir:Q2-R7*R8*i:n-!
-i\98**mn{{314,194,98}}**n{{304,685,100}}-N5*Z1-M23\76**t{{354,611,64}}**Z2{{196,930,62}}**R8{{557,44,72}}-!
-R7*R8*i:n-t*mwt-!
+++JSesh_page_orientation HORIZONTAL +s
+Aa1*M23-!
+V12-!
+T12:Y1-!
+Y3-!
+N37:D36-!
+V12-!
+F20:O34-!
+Z4-!
+O1*Z1:n-!
+S12:N33*Z2-!
+P8\R90:Aa11

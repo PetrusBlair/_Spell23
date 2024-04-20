@@ -1,0 +1,15 @@
+This file describes my process of moving from the hieratic of the Kairo JE 9585 image of Spells 23-26 Book of the Dead into Jsesh.gly format. This file serves as reminder to me so I don't have to relearn the steps each time I work on a new line.
+
+
+For Hieratic texts that typically read right to left.
+
+In Jsesh
+File > Format > Right to Left Text
+
+Using a mix of MdC and Gardiner Code create the line of glyphs.
+-separate glyphs.
+: allows glyphs to be stacked.
+
+Use the Aaou dictionary which also includes the Gardiner codes.
+
+Looks something like: sw-w-P6-D36:D54-nTrw-G7-Z3A-r-s
